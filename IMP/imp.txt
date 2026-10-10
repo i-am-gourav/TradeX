@@ -1,0 +1,2 @@
+node modules ko github pe push nhi kiya jata h usmein dependencies rehti h package.json mein
+jo npm i se install krlena without dowloading complete modules

@@ -1,2 +1,4 @@
 node modules ko github pe push nhi kiya jata h usmein dependencies rehti h package.json mein
 jo npm i se install krlena without dowloading complete modules
+
+BootStrap mein se dekhlena ki 12 cols ka kya scene h kaise hoga sb divide agr na ho toh gpt se pdh lena
